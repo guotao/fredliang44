@@ -1020,8 +1020,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
-                  <text x="60" y="60" dominant-baseline="central">95</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="309.26 329"/>
+                  <text x="60" y="60" dominant-baseline="central">94</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -1096,7 +1096,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.65 s
+                0.69 s
               
             </div>
             
@@ -1107,7 +1107,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.98 s
+                0.78 s
               
             </div>
             
@@ -1129,7 +1129,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.65 s
+                0.69 s
               
             </div>
             
@@ -3092,7 +3092,7 @@
           
             <span>These metrics do not include all private contributions</span>
           
-          <span>Last updated Sat, 13 Feb 2021 00:05:44 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sat, 13 Feb 2021 01:27:00 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
