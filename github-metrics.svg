@@ -1447,7 +1447,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                1.83 s
+                1.98 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1457,7 +1457,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                2 s
+                1.62 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1467,7 +1467,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.36 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16">
@@ -1477,7 +1477,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.88 s
+                0.85 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1487,7 +1487,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                1.49 s
+                1.39 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -3482,7 +3482,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Mon, 10 May 2021 11:04:07 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Mon, 10 May 2021 12:04:42 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
