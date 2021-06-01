@@ -1392,7 +1392,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="130.74979615627961" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="130.74979615627961" y="0" width="105.83230511959108" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="236.5821012758707" y="0" width="78.45889165477924" height="8" fill="#2c3e50"/>
+                    <rect mask="url(#languages-bar)" x="236.5821012758707" y="0" width="78.45889165477924" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="315.04099293064996" y="0" width="73.94579998903977" height="8" fill="#00ADD8"/>
                     <rect mask="url(#languages-bar)" x="388.9867929196898" y="0" width="27.1709812895544" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="416.15777420924417" y="0" width="18.961401714113958" height="8" fill="#3572A5"/>
@@ -1409,7 +1409,7 @@
                 HTML
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2c3e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Vue
               </div>
                     <div class="field center no-wrap language">
@@ -1452,8 +1452,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
-                                <text x="60" y="60" dominant-baseline="central">97</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
+                                <text x="60" y="60" dominant-baseline="central">96</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1503,7 +1503,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.68 s
+                0.66 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1551,7 +1551,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.68 s
+                0.66 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -3565,7 +3565,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Tue, 01 Jun 2021 09:05:24  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 01 Jun 2021 10:44:42  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
