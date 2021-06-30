@@ -1503,7 +1503,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.68 s
+                0.72 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1513,7 +1513,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                1.20 s
+                1.08 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1523,7 +1523,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.01 
+                0 
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1551,7 +1551,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.68 s
+                0.72 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1561,7 +1561,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                1.20 s
+                1.08 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1571,7 +1571,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.01 
+                0 
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -3566,7 +3566,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Wed, 30 Jun 2021 20:06:46  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Wed, 30 Jun 2021 21:05:20  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
